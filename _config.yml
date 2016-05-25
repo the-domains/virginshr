@@ -1,0 +1,28 @@
+name: Virginshr
+favicon: null
+layout_spectrum: 0.27657107007689774
+typography_spectrum: 0.5386221220251173
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3945965173188597
+  lightness: 0.6470911228097975
+  saturation: 0.9513699801173061
+  rhythmicContrast: 0.10831581335514784
+purpose: []
