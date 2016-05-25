@@ -1,7 +1,7 @@
 name: Virginshr
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.94535
+typography_spectrum: 0.56606
 title: Virgins отдел найма
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#120d0e'
     - '#8c968f'
   brandStrength: 0.375
-  lightness: 0.3125
-  saturation: 0.125
-  rhythmicContrast: 0.25
+  lightness: 0.8125
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
